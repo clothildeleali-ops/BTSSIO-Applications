@@ -1,0 +1,5 @@
+# À compléter selon la technologie choisie
+# Android : build/  .gradle/  local.properties  *.apk
+# Flutter : build/  .dart_tool/
+# React Native : node_modules/  .expo/
+build/

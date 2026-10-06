@@ -1,0 +1,11 @@
+# Configuration locale (mots de passe BDD) — ne jamais versionner
+config/config.php
+.env
+
+# Dépendances Composer
+vendor/
+
+# Fichiers générés
+*.log
+cache/
+public/uploads/
